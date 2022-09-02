@@ -21,7 +21,7 @@ def main():
 
 
     print("Kilometerstand des ersten Autos:", auto_eins.kilometerstand)
-
+    print("Hallo")
 
 
 main()
