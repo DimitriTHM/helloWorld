@@ -21,7 +21,7 @@ def main():
 
 
     print("Kilometerstand des ersten Autos:", auto_eins.kilometerstand)
-    print("Kilometerstand des zweiten Autos:", auto_zwei.kilometerstand)
+
 
 
 main()
