@@ -30,3 +30,5 @@ class Auto:
     def strecke_fahren(self, kilometer):
         print("Das Auto fährt {0} Kilometer".format(kilometer))
         self.kilometerstand += kilometer
+
+        #Neue änderung
