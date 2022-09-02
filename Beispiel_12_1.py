@@ -16,7 +16,7 @@ def main():
     print("\nDaten von Auto zwei:")
     auto_zwei.zeige_daten()
 
-    # print("\nDie Autos fahren ein wenig durch die Gegend...")
+    print("\nDie Autos fahren ein wenig durch die Gegend...")
 
     auto_eins.strecke_fahren(64)
     auto_zwei.strecke_fahren(128)
