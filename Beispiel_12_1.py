@@ -4,7 +4,7 @@
 #
 import Auto
 
-
+print("fetchen")
 def main():
     # Hauptprogramm
     auto_eins = Auto.Auto("Kia", "Grün", 50, 3)
