@@ -7,7 +7,7 @@ import Auto
 
 def main():
     # Hauptprogramm
-    auto_eins = Auto.Auto("Kia", "Silber", 50, 3)
+    auto_eins = Auto.Auto("Kia", "Rot", 50, 3)
 
 
     print("\nDaten von Auto eins:")
