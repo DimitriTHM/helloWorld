@@ -22,6 +22,7 @@ def main():
 
     print("Kilometerstand des ersten Autos:", auto_eins.kilometerstand)
     print("Hallo")
+    print("Diese änderung erfolgt über Github")
 
 
 main()
